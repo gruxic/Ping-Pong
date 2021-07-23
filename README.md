@@ -14,6 +14,6 @@ To play the game, run the `main.py` file.
     python main.py
 
 ## Screenshots
-![](https://github.com/gruxic/Ping-Pong/blob/main/images/pong1.JPG)
 ![](https://github.com/gruxic/Ping-Pong/blob/main/images/pong2.JPG)
+![](https://github.com/gruxic/Ping-Pong/blob/main/images/pong1.JPG)
 ![](https://github.com/gruxic/Ping-Pong/blob/main/images/pong3.JPG)
